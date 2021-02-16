@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1613421477 source:c:\users\brb\desktop\projeto c 1 - game quiz\projeto_c-3_bank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
